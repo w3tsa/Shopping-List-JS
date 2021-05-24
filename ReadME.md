@@ -2,19 +2,19 @@
 
 ## HTML & CSS
 
-- [] Title
-- [] input field
-- [] ADD button
-- [] ADD remove button
-- [] ADD hover on the list item
-- [] ADD checked class
+- [x] Title
+- [x] input field
+- [x] ADD button
+- [x] ADD remove button
+- [x] ADD hover on the list item
+- [x] ADD checked class
 
 # JS eventListeners
 
-- [] Grab all the necessary elements from the DOM
-- [] add eventListener to ADD button
-- [] Create and display list items
-- [] add eventListener to remove icon
-- [] remove the list items
-- [] add eventListener to list item
-- [] add toggle event to add checked class to the list items
+- [x] Grab all the necessary elements from the DOM
+- [x] add eventListener to ADD button
+- [x] Create and display list items
+- [x] add eventListener to remove icon
+- [x] remove the list items
+- [x] add eventListener to list item
+- [x] add toggle event to add checked class to the list items
